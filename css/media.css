@@ -209,6 +209,8 @@ td {
 }
 .tours h3 {
     margin-top: 0;
+    font-size: 24px;
+    white-space: nowrap;
 }
 .facts {
     margin-top: 10px;
