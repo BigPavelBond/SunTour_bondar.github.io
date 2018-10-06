@@ -28,6 +28,7 @@ nav{
 .callback{
   color: #fff;
   border-bottom: 1px dotted #fff;
+  white-space: nowrap;
 }
 .callback:hover{
   text-decoration: none;

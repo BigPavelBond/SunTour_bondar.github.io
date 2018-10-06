@@ -12,6 +12,7 @@ $(document).ready(function() {
  	});
  	overlay.click(function() {
  		modal.toggleClass('popup_active');
+ 		$('html').css('overflow-y', 'visible');
  		overlay.hide();
  	});
  	link.on('click', function () {
