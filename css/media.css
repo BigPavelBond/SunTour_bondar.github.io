@@ -1,0 +1,220 @@
+@media screen and (max-width: 1200px){
+.phone a{
+  font-size: 17px;
+}
+.side {
+  margin-top: 5%; 
+}
+.sunday{
+  margin-left: 12%;
+}
+.popup_active {
+  z-index: 999;
+  width: 80%;
+
+}
+@media screen and (max-width: 992px){
+  .logo img{
+    width: 100px;
+  }
+  .slang{
+    font-size: 11px;
+  }
+  .callback{
+    font-size: 11px;
+  }
+  .socials img{
+    width: 35px;
+  }
+  .alltime_sun{
+    display: none;
+  }
+  .main{
+    background: url(../img/bg.jpg) no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+}
+@media screen and (max-width: 768px){
+  .logo img{
+    width: 80px;
+  }
+  .phone a{
+    font-size: 13px;
+}
+  .main{
+    background: url(../img/bg.jpg) no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  .table_gray {
+    font-size: 11px;
+}
+  .main__ball {
+    width: 180px;
+    height: 180px;
+}
+  .main__ball p {
+    font-size: 16px;
+    margin-top: 20%;
+}
+  .popup__form input {
+    margin-bottom: 15px;
+}
+  .callback_btn{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+  td>sub,sup{
+    font-size: 20%;
+}
+  .table_name_element td, .table_element .table_name_element {
+    font-size: 10px;
+    padding: 5px 0;
+
+}
+  .table_element td {
+    font-size: 10px;
+}
+  .facts h4 {
+    font-size: 30px;
+}
+  .side{
+     margin-left: 0;
+  }
+  .footer__test{
+    font-size: 12px;
+  }
+  .phone {
+    font-size: 0; 
+}
+  .logo img {
+    margin-right: 60%;
+    margin-bottom: 20px;
+}
+  .slang {
+    font-size: 11px;
+    margin-left: 30px;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+}
+  .socials img {
+    width: 30px;
+}
+  .main {
+    height: 400px;
+}
+  .main__ball {
+    width: 120px;
+    height: 120px;
+}
+  .main__ball p {
+    font-size: 11px;
+    margin-top: 9%;
+}
+
+
+}
+@media screen and (max-width: 576px){
+.phone {
+    margin-left: 0;
+    margin-right: 0;
+}
+.phone a {
+    font-size: 12px;
+}
+.assessment h2{
+  font-size: 16px;
+  display: inline-block;
+}
+.stars {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.stars img{
+  width: 20px;
+  margin-top: 5px;
+}
+.two td {
+    font-size: 11px;
+}
+.table_gray {
+    font-size: 8px;
+}
+.overall {
+    font-size: 11px;
+}
+td:first-child {
+    padding: 0; 
+    font-size: 11px;
+    padding-right: 5px;
+}
+td {
+    padding: 0;
+    padding-left: 10px;
+    font-size: 11px;
+}
+.tour img {
+    -webkit-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    min-height: 200px;
+    max-height: 200px;
+}
+.tour {
+    width: 100%;
+    height: 200px;
+}
+.tours h3,p {
+    margin-left: 5%;
+}
+.facts h4,h5,h6 {
+    margin-left: 5%;
+}
+.table_element td {
+    padding: 0;
+    font-size: 7px;
+    padding-left: 3px;
+}
+.table_element .table_name_element {
+    font-size: 8px;
+    padding: 5px 0;
+}
+.table_element {
+    margin-left: 5%;
+}
+.footer {
+    flex-wrap: wrap;
+}
+.socials_footer{
+    margin: auto;
+}
+.footer__test {
+    margin-bottom: 10px;
+}
+.popup_active {
+    padding: 25px;
+}
+.close-btn {
+        top: -45px;
+    right: -30px
+}
+.price span:first-child {
+    font-size: 30px;
+}
+.side p:first-child {
+    font-size: 60px;
+    line-height: 50px;
+}
+.tours h3 {
+    margin-top: 0;
+}
+.facts {
+    margin-top: 10px;
+}
+.main__ball p {
+    font-size: 11px;
+    margin-bottom: -2px;
+}
+}
