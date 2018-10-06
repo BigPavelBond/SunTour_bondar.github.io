@@ -167,6 +167,7 @@ td:first-child{
 /*TOURS BEGIN*/
 .tours{
   margin-top: 30px;
+  white-space: nowrap;
 }
 .tour{
   width: 100%;
