@@ -196,6 +196,7 @@ td:first-child{
   border-bottom: 1px solid #cccccc;
   margin-top: 20px;
   display: inline-block;
+  white-space: nowrap;
 }
 /*TOURS END*/
 
